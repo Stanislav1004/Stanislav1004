@@ -1,5 +1,5 @@
 # Hi, I'm Stanislav 👋
-### DevOps & Infrastructure Enthusiast
+### DevOps & Infrastructure
 
 - 🔭 Working on: **CI/CD Pipelines, Docker Containerization & Infrastructure**
 - 🌱 Learning: **Linux System Administration, Shell Automation, Multi-Container Architectures & Cloud Deployments**
